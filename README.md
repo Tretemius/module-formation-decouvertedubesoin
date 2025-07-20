@@ -28,4 +28,4 @@ Module de formation interactif pour apprendre les techniques de découverte et d
 - Responsive design
 
 ## 👨‍💼 Auteur
-Aurélien Balme - Formateur Concepteur pédagogie digitale
+Aurélien Balme - Formateur ConCEPTEUR Pédagogique et Digital
