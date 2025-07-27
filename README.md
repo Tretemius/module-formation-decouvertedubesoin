@@ -43,7 +43,7 @@ This e-learning module is licensed under **CC BY-NC-SA 4.0**.
 - ✅ **Personal and educational use**: Free
 - ✅ **Modifications allowed** (with proper attribution)
 - ❌ **Commercial use prohibited** without permission
-- 📧 **Contact for commercial licensing**: [votre.email@exemple.com]
+- 📧 **Contact for commercial licensing**: abalme62@gmail.com
 
 ![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
